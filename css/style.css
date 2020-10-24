@@ -1,0 +1,26 @@
+body {
+    background-color: #fcfcfc;
+    font-family: sans-serif;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+h1 {
+    color: #764e36;
+    margin: 0;
+    padding: 0;
+}
+.titulo {
+    background-color: #764e36;
+    color: white;
+    font-weight: bolder;
+    padding: 5px;
+}
+hr {
+    border-color: #764e36;
+    margin: 0;
+    padding: 0;
+}
+img {
+    border: solid 3px #764e36;
+    padding: 15px;
+}
